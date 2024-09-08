@@ -1,0 +1,36 @@
+Folder PATH listing
+Volume serial number is F23C-4369
+C:.
+│   .htaccess
+│   index.php
+│   
+├───config
+│       database.php
+│       mail.php
+│       session.php
+│       view.php
+│       
+├───includes
+│   │   app.php
+│   │   exceptionError.php
+│   │   
+│   └───helpers
+│           db.php
+│           helper.php
+│           mail.php
+│           routing.php
+│           session.php
+│           view.php
+│           
+├───resources
+│   └───views
+│       │   404.php
+│       │   home.php
+│       │   
+│       └───layout
+│               footer.php
+│               header.php
+│               
+└───routes
+        web.php
+        
